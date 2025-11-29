@@ -4754,7 +4754,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -5556,7 +5556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 107.95 53.34 0)
 			(effects
 				(font
@@ -6958,7 +6958,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 91.44 40.64 0)
 			(effects
 				(font
@@ -8162,7 +8162,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2466133e-a645-49c8-b77c-51117bb1ca53")
+			(uuid "2466133e-a645-49c8-b77c-51117bb1ca54")
 		)
 		(instances
 			(project ""

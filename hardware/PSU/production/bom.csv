@@ -1,0 +1,18 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Elec_6.3x7.7,1,100uF 50v,C3151829
+"C2, C3",CP_Elec_5x5.4,2,10uF 50v,C72487
+"C4, C5",CP_Elec_5x5.4,2,22uF 25v,C3001207
+"C6, C7",0805,2,4.7uF 25v,C1779
+"CN1, CN2",CONN-TH_B2B-PH-K-S,2,JST PH 2 pin male,C131337
+D1,D_SMA_Handsoldering,1,Barrier,C64982
+"D2, D3, D4",LED_D3.0mm,3,LED,C84256
+F1,1812,1,1.5A 24V,C142805
+"J1, J2",IDC-Header_2x05_P2.54mm_Vertical,2,IDC 2x5 male,
+L1,L_muRata_LQH3NPZ100MMEL_HandSolder,1,10uH 800mA,C701168
+"R1, R2, R3",0805,3,5.1k,C27834
+RV1,1206,1,MOV 18v,C22355851
+"TP1, TP2",TestPoint_Keystone_5000-5004_Miniature,2,GND,
+TP3,TestPoint_Keystone_5000-5004_Miniature,1,+12v,
+TP4,TestPoint_Keystone_5000-5004_Miniature,1,-12v,
+TP5,TestPoint_Keystone_5000-5004_Miniature,1,+15v,
+"U1, U2",PWRM-TH_K7812-1000R3,2,K7812-1000R3,C5369648

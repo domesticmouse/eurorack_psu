@@ -78,7 +78,7 @@
 		)
 	)
 	(net 0 "")
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "0b32435f-e7eb-40c5-809f-8437ab988da1")
 		(at 75 88.58)
@@ -96,7 +96,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -133,34 +133,12 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "54121700-aeb3-499b-b761-19c0c3f331c5")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "f2ac773b-e5c8-4516-b8d8-0fa56201bece")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "14f9d29b-a32b-4bb4-a079-e44d7d9137d1")
+			(uuid "8d1faf55-f025-4d39-af65-67831aaa5e05")
 		)
 		(embedded_fonts no)
 	)
@@ -230,7 +208,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "4e20c1e5-0ea4-415b-b7fd-ceacda204cb6")
 		(at 75 63.25)
@@ -248,7 +226,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -285,34 +263,12 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "8b9abd60-d538-4285-af93-8e02cfb05012")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "19c52c33-a4d8-4eb4-b0d7-bd7fabc88348")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "22d15af2-c35f-4d2c-8576-4b4bf6f56d92")
+			(uuid "dc8fb1ad-70d4-4788-b98e-32082a06b554")
 		)
 		(embedded_fonts no)
 	)
@@ -382,7 +338,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "65b8b3c1-1088-4a45-8bd3-89bc62e505a5")
 		(at 55 63.25)
@@ -400,7 +356,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -437,38 +393,16 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "1f61a784-0b78-406b-85ff-9dc9f930457b")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "57eaf16d-cd9d-4c2d-abf6-fe15258ea357")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "5ed68b35-a0d9-4409-a853-7fb462c940bc")
+			(uuid "b520d6a1-fb40-4861-9f98-56131203be30")
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "99eb4422-c66f-4845-9e1e-57b4dc70a3df")
 		(at 75 165.25)
@@ -486,7 +420,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -523,38 +457,16 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "d30c6585-3de9-4e8c-990b-602ed41d8f82")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "2a9e2eb8-9221-41cd-a909-511fab75966a")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "97232081-e6c3-43f9-9883-7156dd419d9c")
+			(uuid "d1807844-2aec-4119-9bea-8089c12be6de")
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "9ba7ff8d-0efc-4e47-8b7a-a3a21375da7e")
 		(at 75 98.58)
@@ -572,7 +484,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -609,34 +521,12 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "f05f051b-5868-419f-8381-6108689614ce")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "53fd8ee8-e1fa-426f-a117-5260dca1b104")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "949b2711-0625-4e6c-a2fb-556c19bb6eda")
+			(uuid "b621fa3b-ba0c-46a2-bcc5-081072c38a09")
 		)
 		(embedded_fonts no)
 	)
@@ -706,7 +596,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "db2c11e4-2cf9-42a3-af09-3b84a105b942")
 		(at 75 93.58)
@@ -724,7 +614,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -761,38 +651,16 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "3ffb1318-346b-4140-937e-3ca2e24b9218")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "787902c8-5c33-4a9f-97bb-6785bbf2dbb9")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f39d8b8a-a2fd-4467-9430-2dbbdd930881")
+			(uuid "abec16b6-8e5f-4f3e-a22e-4d2f251b5185")
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3"
+	(footprint "ModularMountingHoles:MountingHole_3.2mm_M3_naked"
 		(layer "F.Cu")
 		(uuid "f281f2c7-ed39-47a6-8a6c-37884ae92b97")
 		(at 55 165.25)
@@ -810,7 +678,7 @@
 				)
 			)
 		)
-		(property "Value" "MountingHole_3.2mm_M3"
+		(property "Value" "MountingHole_3.2mm_M3_naked"
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -847,34 +715,12 @@
 			)
 		)
 		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 3.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "4d941180-8df6-45f9-b717-d3ee717e0569")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "85436487-8698-4f51-912e-6a9ebc288fa0")
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c778f85a-924b-4deb-a2b6-ad7527cd1e88")
+			(uuid "6a3e224b-bf3a-456b-ae1e-dd61bf03f0c4")
 		)
 		(embedded_fonts no)
 	)
@@ -954,6 +800,42 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "1a8d99b9-877e-4c8e-9175-8e4b674da420")
+	)
+	(gr_text "+15V"
+		(at 73 90 0)
+		(layer "F.SilkS")
+		(uuid "06fbcdff-1c01-4931-bab5-2064807853fc")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify right bottom)
+		)
+	)
+	(gr_text "+12V"
+		(at 73 95 0)
+		(layer "F.SilkS")
+		(uuid "d7f6384f-44a3-468a-a0b0-e9dea656bbc4")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify right bottom)
+		)
+	)
+	(gr_text "-12V"
+		(at 73 100 0)
+		(layer "F.SilkS")
+		(uuid "e24032f1-e105-4184-a4c4-fe4c94e54850")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify right bottom)
+		)
 	)
 	(embedded_fonts no)
 )

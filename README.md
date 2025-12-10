@@ -30,3 +30,7 @@ See [EurorRack dimensions][] for faceplate dimensions.
 
 - [C52711227 USB Connector](https://www.lcsc.com/datasheet/C52711227.pdf)
 - [C22373734 USB Type-C Power Delivery Sink Controller](https://www.lcsc.com/datasheet/C22373734.pdf)
+
+## Kicanvas
+
+- [PSU](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fdomesticmouse%2Feurorack_psu%2Fblob%2Fmain%2Fhardware%2FPSU%2FPSU.kicad_pro)

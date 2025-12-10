@@ -34,3 +34,4 @@ See [EurorRack dimensions][] for faceplate dimensions.
 ## Kicanvas
 
 - [PSU](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fdomesticmouse%2Feurorack_psu%2Fblob%2Fmain%2Fhardware%2FPSU%2FPSU.kicad_pro)
+- [Faceplate](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fdomesticmouse%2Feurorack_psu%2Fblob%2Fmain%2Fhardware%2Ffaceplate%2Ffaceplate.kicad_pro)
